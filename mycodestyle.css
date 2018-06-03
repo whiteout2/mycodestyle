@@ -20,14 +20,14 @@
 .mw-highlight .sc,
 .mw-highlight .se,
 .mw-highlight .s {
-	color:#800000 !important;
+	color:maroon !important;
 	font-style:normal !important;
 	font-weight:normal !important;
 }
 
 .mw-highlight .cm,
 .mw-highlight .c1 {
-	color:#008000 !important;
+	color:green !important;
 	font-style:normal !important;
 }
 
